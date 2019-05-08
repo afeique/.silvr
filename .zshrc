@@ -105,7 +105,7 @@ SPACESHIP_TIME_SHOW=true
 SPACESHIP_TIME_PREFIX="" # clock icon
 SPACESHIP_TIME_SUFFIX=""
 SPACESHIP_TIME_COLOR="green"
-SPACESHIP_TIME_FORMAT="%D{\uf017 %k:%M  \uf073 %a, %b %d}" # man strftime
+SPACESHIP_TIME_FORMAT="%D{\uf017 %k:%M:%S}" # man strftime
 
 SPACESHIP_EXEC_TIME_SHOW=true
 SPACESHIP_EXEC_TIME_PREFIX="\uf252 " # hourglass icon # \uf49b stopwatch icon
